@@ -6,7 +6,7 @@ function Section() {
     <Wrap>
       <ItemText>
         <h1>Malaïka</h1>
-        <p>Commandez maintenant en ligne</p>
+        <p>Commandez dès maintenant et soyez livré en 3 jours</p>
       </ItemText>
     </Wrap>
   )
