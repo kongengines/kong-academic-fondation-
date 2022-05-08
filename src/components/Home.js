@@ -28,7 +28,7 @@ function Home() {
         />
         <Section          
           title="3D Game Developer Certified"
-          description="Un jeux célèbre de strategie originaire d'Afrique développé en réalité augmenté pour vous entretenir alors que vous degustez Instinct"
+          description=""
           backgroundImg="3dgamedev.jpg"
           leftBtnText="Commande personnalisée"
           rightBtnText="Commandez Immédiatement"
