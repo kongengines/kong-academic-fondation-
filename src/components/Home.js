@@ -7,7 +7,7 @@ function Home() {
     <Container>
         <Section
           title="FullStack JavaScript Certified"
-          description="En 6 mois seulement, deviens dès maintenant un développeur Fullstack JavaScript expert en développement web moderne, mobile et jeux vidéos en 2022!"
+          description="En 6 mois seulement, deviens dès maintenant un développeur Fullstack JavaScript expert en développement web moderne, mobile et jeux vidéos"
           backgroundImg="js.jpg"
           leftBtnText="Commande personnalisée"
           rightBtnText="Commandez Immédiatement"
